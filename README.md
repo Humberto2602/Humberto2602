@@ -6,6 +6,36 @@
 
 <!---
 N°1   prueba
+Ejercicio N°4
+
+
+Usuario: hwcybernet@curious-hawk-8blhtf.com  Clave Kaicha2602.  
+https://trailblazer.me/id/jhflores
+noreply@salesforce.com
+Dom 6/3/2022 10:25 AM
+Your Contacts import is complete. Here are your results:
+
+Contacts Created: 20
+Contacts Updated: 0
+Contacts Ignored: 0 (We ignored updates that we couldn't match to an existing record.)
+Contacts Failed:  0 (We couldn't import these due to errors.)
+Contacts Rejected:  0 (We rejected duplicate rows.)
+
+Processed job information for imported Contacts: https://curious-hawk-8blhtf-dev-ed.my.salesforce.com/7508c000006uEnHAAU?fromEmail=1
+[contacts_to_import - contacts_to_import (1).csv](https://github.com/Humberto2602/Humberto2602/files/8193445/contacts_to_import.-.contacts_to_import.1.csv)
+
+![Data import wizar1](https://user-images.githubusercontent.com/100371913/156941219-c9138645-b858-4c69-ad51-34108a5d5208.png)
+![Data import wizar2](https://user-images.githubusercontent.com/100371913/156941220-02be4ad5-d152-4e08-be34-9262d8f38470.png)
+![Data import wizar3](https://user-images.githubusercontent.com/100371913/156941221-9dcb055a-195d-4707-b3b6-b55a0fc615e4.png)
+![Data import wizar4](https://user-images.githubusercontent.com/100371913/156941223-b6d2f31a-f827-49e6-af91-43b89f35492c.png)
+![Data import wizar 5](https://user-images.githubusercontent.com/100371913/156941246-7639199f-bae1-48ef-a2a8-f790a380c26f.png)
+![Data import wizar 6](https://user-images.githubusercontent.com/100371913/156941248-9aa3597d-d5ba-4e8f-a782-8a576b13315a.png)
+![Data import wizar 7](https://user-images.githubusercontent.com/100371913/156941250-828e91fa-61a8-4c8b-a62c-b14fa40dadfe.png)
+![Data import wizar 8](https://user-images.githubusercontent.com/100371913/156941251-bac5046f-4164-461d-91cf-95d8fcad6e1a.png)
+![Data import wizar 9](https://user-images.githubusercontent.com/100371913/156941252-53150ee5-5478-43a3-b6e3-2560e05f0de5.png)
+![Data import wizar10](https://user-images.githubusercontent.com/100371913/156941263-41aa0fd5-fdc1-42f3-85fa-37687db4949a.png)
+
+
 
 
 Ejercicio N°5
