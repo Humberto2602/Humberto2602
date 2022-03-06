@@ -40,10 +40,12 @@ un gerente o el dueño de la compañia, será la  persona encraga de los proceso
 
 8) Asset:      Es un producto que fue adquirido o instalado, realizando un seguimiento  se puede ver la cronologia de compra, mantenimieto o servicio adquirido. 
                Datos que se almacenan:
-							 Asset name, Account; Contact, Product,Purchase date. [contacts_to_import - contacts_to_import (1).csv](https://github.com/Humberto2602/Humberto2602/files/8193268/contacts_to_import.-.contacts_to_import.1.csv)
-
-
+							 Asset name, Account; Contact, Product,Purchase date. 
 9) Article:    Son nuestra documentación sobre procesos.   
                Datos que se almacenan:
 							 Article name, Description; Owner name.
+
+
+
+
 
