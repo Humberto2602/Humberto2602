@@ -1,7 +1,6 @@
 @Humberto2602
 -
 <!---
-N°1   prueba
 
 EJERCICIO 1
 Instalación del ambiente
@@ -32,8 +31,8 @@ ES un protoclo que nos permite enviar la solicitud de información de  un sitio 
 la respuesta del servidoe al buscardor con la información solicitada.
 
 2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
-Los verbos HTTP permiten comunicar al servidor lo que se quiere realizar con un recurso bajo una URL.Estos verbos indican qué acción queremos realizar sobre el servidor 
- Los verbos  más importates de HTTP (especialmente para hacer aplicaciones REST) son POST, GET, PUT, DELETE y HEAD.
+Los verbos HTTP permiten comunicar al servidor lo que se quiere realizar con un recurso bajo una URL.Estos verbos indican qué acción queremos realizar sobre el servidor.
+Los verbos  más importates de HTTP (especialmente para hacer aplicaciones REST) son POST, GET, PUT, DELETE y HEAD.
 
 3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?
 El Respons es el mesaje de respuesta que envia el servidor ante la solicitud de un cliente.
@@ -71,10 +70,10 @@ estructuras posibles.
 Json :El formato JSON se utiliza para estructurar datos en forma de texto y permite el intercambio de información entre aplicaciones de manera sencilla,
 liviana y rápida.
 ejemplo:  {
-  "nombre":"Jonh",
+  "nombre":"Jose",
   "profesion":"vendedor",
   "edad":48,
-  "nivel": "junior"
+  "nivel": "senior"
   }
   
 XML: Es un lenguaje que permite compartir datos entre sistemas. Se escribe en ficheros de texto plano, que pueden ser fácilmente procesables por cualquier 
