@@ -62,6 +62,7 @@ Con el método GET, los datos que se envían al servidor se escriben en la misma
 Http request
 
 7. ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
+El get ya que con el puedo consutar la  información . 
 
 
 8. Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de
@@ -85,13 +86,18 @@ ejemplo:
   </deporte>
 
   9. Explicar brevemente el estándar SOAP
- Es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML
+   Es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML.
+  SOAP permite el enlace y la utilización de servicios Web encontrados definiendo una ruta de mensaje para el direccionamiento de mensajes. 
+  Se puede utilizar SOAP para consultar UDDI para servicios Web.
 
-10. Explicar brevemente el estándar REST Full
+10. Explicar brevemente el estándar REST Full.
+ES un tipo de arquitectura de desarrolllo Web que se apoya en el estandar HTTP, este nos permite mejorar las comunicaciones cliente- servidor.
 
-
-11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
-
+11. ¿Qué son los headers en un request? 
+Son los parametros que se envian de una peteición o respuesta HTTP al cliente o al servidor. 
+ 
+¿Para qué se utiliza el key Content-type en un header?
+Es la propiedad del header que se usa para indicar el media type del recurso, dice al cliente que tipo de contenido será retornado.
 
 Ejercicio N°4
 
