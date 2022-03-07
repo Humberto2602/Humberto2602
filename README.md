@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Humberto2602
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-
-
+@Humberto2602
+-
 <!---
 N°1   prueba
 
