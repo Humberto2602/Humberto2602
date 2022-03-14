@@ -334,7 +334,7 @@ columna del CSV. Si no se alcanza ver por el ancho de la pantalla, tomar varios 
 
 Como primer paso se analizo la información en el objeto Account depurando su datos, creando los campos necesarios y obteniendo el id de los Owner.
 
-Las herramientas para depuración se utilizo un vlook en excel que me permitio verificar los datos faltantes y de esta manera poder completar la información. 
+Las herramientas para depuración se utilizo un vlook Up en excel que me permitio verificar los datos faltantes y de esta manera poder completar la información. 
 
 En el campo región y ciudad se utilizo un picklist value set.
 
@@ -373,7 +373,7 @@ En el objeto oportunidad.
 
 Se depuro la información, se  agrego los campos faltantes, se tomo los owner Id que se encuentran en cuenta ya que no se especificaba cuales eran, se sustituyo dentro los campos los valores nuevos asiganados.
 
-Se utilizo un Vlook para agregar los Id Owner de Account Id
+Se utilizo un VlookUP para agregar los Id Owner de Account Id
  
 Al tener la data depuarada se subieron los datos utilizando la herramienta Dataloader.
 
