@@ -371,7 +371,7 @@ Archivos completados y sin error.
 
 En el objeto oportunidad.
 
-Se depuro la información, se  agrego los campos faltantes, se tomo los ownwe Id que se encuentran en cuenta ya que no se especificaba cuales eran, se sustituyo dentro los campos los valores nuevos asiganados.
+Se depuro la información, se  agrego los campos faltantes, se tomo los owner Id que se encuentran en cuenta ya que no se especificaba cuales eran, se sustituyo dentro los campos los valores nuevos asiganados.
 
 Se utilizo un Vlook para agregar los Id Owner de Account Id
  
