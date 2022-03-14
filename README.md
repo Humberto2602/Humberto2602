@@ -322,7 +322,65 @@ N. ¿Salesforce es un ERP?
 
 No, Salesforce es un CRM. Salesforce registra la relación con el cliente. 
 
+Ejercicio N° 7
 
+Solicitar a ariel.tarsitano@procontacto.com.mx el archivo CSV de importación para realizar este ejercicio.
+Instalar la herramienta dataloader para mac o windows.
+Importar el archivo obtenido del playground utilizado para resolver el ejercicio 4 y agregar los siguientes
+screenshots a github.
+1. Paso a paso del proceso para mostrar cómo fue realizado.
+2. Un listado que solo muestre las cuentasimportadas, que la lista muestre una columna por cada
+columna del CSV. Si no se alcanza ver por el ancho de la pantalla, tomar varios screenshots.
+
+Como primer paso se analizo la información en el objeto Account depurando su datos, creando los campos necesarios y obteniendo el id de los Owner.
+
+Las herramientas para depuración se utilizo un vlook en excel que me permitio verificar los datos faltantes y de esta manera poder completar la información. 
+
+En el campo región y ciudad se utilizo un picklist value set.
+
+Se tomaron los datos que ya se encontraban en el campo para la creación del picklist en el campo Región. 
+
+En el campo ciudad se agregaron y corregieron los datos (falta de tilde, nombres mal escritos, faltante de caracteres especiales).
+
+Luego se procedio a la utilización de la herramiebta Dataloader para la subida de datos.
+
+
+Se suben imagenes con el proceso realizado. ![Pantalla 1](https://user-images.githubusercontent.com/100371913/158242149-46089454-ef93-46a6-a234-bf94f57bdabd.png)
+![Pantalla2](https://user-images.githubusercontent.com/100371913/158242183-d6babb00-a99e-4f3f-85b9-92db6ca7d014.png)
+![Pantalla3](https://user-images.githubusercontent.com/100371913/158242187-a4f17c96-6525-4e46-8c9f-4506ab0e3de3.png)
+![Pantalla3](https://user-images.githubusercontent.com/100371913/158242210-82280cc7-d80b-4c82-81c2-8980643ab8f4.png)
+![Pantalla 4](https://user-images.githubusercontent.com/100371913/158242240-a2005419-b56e-42b8-a727-558ec587d01d.png)
+![Pantalla 5](https://user-images.githubusercontent.com/100371913/158242243-23858c4b-3fc7-48c7-b072-c015a316afab.png)
+![Pantalla 6](https://user-images.githubusercontent.com/100371913/158242248-c0641df8-db1e-48ce-806a-4a80cbe905dc.png)
+![Datos corregidos 1](https://user-images.githubusercontent.com/100371913/158242274-f2728f17-99fa-471e-87c8-1aaa3a56b36a.png)
+![Datos corregidos 2](https://user-images.githubusercontent.com/100371913/158242280-45d21183-c613-42a8-9727-f92e05af05b3.png)
+![Datos corregidos 3](https://user-images.githubusercontent.com/100371913/158242282-bf907caa-a19e-4f26-b4ae-38633b24502e.png)
+![Datos corregidos 4](https://user-images.githubusercontent.com/100371913/158242284-63d424a9-b2d7-471a-b56f-da4694942755.png) 
+
+
+Errores en proceso de subida. 
+[error031322100710715.csv](https://github.com/Humberto2602/Humberto2602/files/8247885/error031322100710715.csv)
+[error031322095918656.csv](https://github.com/Humberto2602/Humberto2602/files/8247888/error031322095918656.csv)
+[error031322094532154.csv](https://github.com/Humberto2602/Humberto2602/files/8247891/error031322094532154.csv)
+
+Archivos completados y sin error.
+
+[success031322100710715.csv](https://github.com/Humberto2602/Humberto2602/files/8247902/success031322100710715.csv)
+[success031322095918656.csv](https://github.com/Humberto2602/Humberto2602/files/8247907/success031322095918656.csv)
+[success031322094532154.csv](https://github.com/Humberto2602/Humberto2602/files/8247909/success031322094532154.csv)
+
+En el objeto oportunidad.
+
+Se depuro la información, se  agrego los campos faltantes, se tomo los ownwe Id que se encuentran en cuenta ya que no se especificaba cuales eran, se sustituyo dentro los campos los valores nuevos asiganados.
+
+Se utilizo un Vlook para agregar los Id Owner de Account Id
+ 
+Al tener la data depuarada se subieron los datos utilizando la herramienta Dataloader.
+
+[success031422034701816.csv](https://github.com/Humberto2602/Humberto2602/files/8247941/success031422034701816.csv)
+Archivo sin errores.
+
+Terminando los pasos nombrados se verifica dentro de la Organización que los datos esten correctos y completos. 
 
 
 
